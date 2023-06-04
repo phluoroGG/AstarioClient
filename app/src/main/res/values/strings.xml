@@ -1,6 +1,7 @@
 <resources>
-    <string name="app_name">AstarioClient</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="app_name">Astario</string>
+    <string name="title_home">Лента постов</string>
+    <string name="title_dashboard">Категории</string>
+    <string name="title_notifications">Создать пост</string>
+    <string name="title_profile">Профиль</string>
 </resources>
